@@ -2,8 +2,9 @@
 
 # dependencies
 /node_modules
-/public/*
+/public/audio/*
 !/public/audio/
+
 
 /.pnp
 .pnp.js
